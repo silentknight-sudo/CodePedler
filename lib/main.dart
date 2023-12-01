@@ -17,7 +17,7 @@ Future<void> main() async {
       [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
   //false debug mode
 
- 
+  setPathUrlStrategy();
   return runApp(
       ChangeNotifierProvider(create: (_) => AppState(), child: App()));
 }
