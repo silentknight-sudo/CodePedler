@@ -1,3 +1,3 @@
 # CodePedler
 
-Hackathon Hackathon
+Hackathon Project
